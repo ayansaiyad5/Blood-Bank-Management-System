@@ -1,13 +1,13 @@
 # Blood-Bank-Management-System
 This is my Blood Bank Management System project. Author - Ayan Saiyad  &nbsp; 
  &nbsp;
- ## Admin Login Id
+ ## Admin Login ID
  ### Email: admin@gmail.com
  ### Password: admin123 <br><br>
- ## Donor Login Id
+ ## Donor Login ID
  ### Email: donor1@gmail.com
  ### Password: 12345 <br><br>
- ## Patient Login Page
+ ## Patient Login ID
  ### Email: patient1@gmail.com
  ### Password: 12345
    <br><br>
