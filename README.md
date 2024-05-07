@@ -1,9 +1,9 @@
 # Blood-Bank-Management-System
 This is my Blood Bank Management System project. Author - Ayan Saiyad
-<img src="1.png" alt="Girl in a jacket" width="500" height="600">
  &nbsp; 
  &nbsp; 
  <h1> Home Page <</h1>
+   &nbsp; 
 ![2-1](https://github.com/ayansaiyad5/Blood-Bank-Management-System/assets/128246353/3a717ed8-5df3-4aa0-b2a1-5d53aa157f16)
 ![3](https://github.com/ayansaiyad5/Blood-Bank-Management-System/assets/128246353/b321f468-48ef-45f3-b063-53ad620358b2)
 ![3-1](https://github.com/ayansaiyad5/Blood-Bank-Management-System/assets/128246353/769a25f5-65bf-499c-8990-76ba3a208c96)
