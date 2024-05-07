@@ -2,8 +2,9 @@
 
 ## This is Developed by Ayan Saiyad   <br><br>
 
-### Language used  
-**HTML5, CSS3, , JS, PHP and MySQL**  &nbsp;
+## Language used  
+**HTML5, CSS3, , JS, PHP and MySQL**  
+&nbsp;
 ## Requirements
   - PHP 5.3 or higher.
   - MySQL 5.6 or higher for spatial features in MySQL.
