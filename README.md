@@ -1,6 +1,6 @@
 # Blood-Bank-Management-System
 
-### This is Developed by Ayan Saiyad  &nbsp;
+## This is Developed by Ayan Saiyad   <br><br>
 
 Technologies used:  **HTML5, CSS3, , JS, PHP and MySQL**  &nbsp;
 ## Requirements
