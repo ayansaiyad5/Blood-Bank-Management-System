@@ -11,7 +11,7 @@ MySQL is used as database. Database design is made easy to understand.
 ## Importing Database
 - Download the given \*bbms.sql file.
 - Create a database bbms
-   &nbsp;
+    <br><br>
  ## Admin Login Id
  ### Email: admin@gmail.com
  ### Password: admin123 <br><br>
