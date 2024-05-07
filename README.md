@@ -6,6 +6,12 @@ Technologies used:  HTML5, CSS3, PHP and MySQL.  &nbsp;
   - MySQL 5.6 or higher for spatial features in MySQL.
   - XAMPP or WAMP server for localhost. 
  &nbsp;
+## Database
+MySQL is used as database. Database design is made easy to understand.
+## Importing Database
+- Download the given \*bbms.sql file.
+- Create a database bbms
+   &nbsp;
  ## Admin Login Id
  ### Email: admin@gmail.com
  ### Password: admin123 <br><br>
