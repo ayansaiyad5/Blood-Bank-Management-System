@@ -1,5 +1,10 @@
 # Blood-Bank-Management-System
-This is my Blood Bank Management System project. Author - Ayan Saiyad  &nbsp; 
+This is my Blood Bank Management System project. Author - Ayan Saiyad  &nbsp;
+Technologies used:  HTML5, CSS3, PHP and MySQL.  &nbsp;
+## Requirements
+  - PHP 5.3 or higher.
+  - MySQL 5.6 or higher for spatial features in MySQL.
+  - XAMPP or WAMP server for localhost. 
  &nbsp;
  ## Admin Login Id
  ### Email: admin@gmail.com
