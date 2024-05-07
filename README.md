@@ -5,9 +5,15 @@ This is my Blood Bank Management System project. Author - Ayan Saiyad  &nbsp;
  ### Email: admin@gmail.com
  ### Password: admin123
   &nbsp;
+ ## Donor Login Id
+ ### Email: donor1@gmail.com
+ ### Password: 12345
    &nbsp;
+ ## Patient Login Page
+ ### Email: patient1@gmail.com
+ ### Password: 12345
     &nbsp;
-## Home Page 
+ ## Home Page 
 ![1](https://github.com/ayansaiyad5/Blood-Bank-Management-System/assets/128246353/11b770c3-334d-4c78-ae5e-5ff2355f178b)
  &nbsp;
 ## Admin Login
